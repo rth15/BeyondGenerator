@@ -73,7 +73,7 @@ namespace BeyondGenerator
     public class Items
     {
         public int Price { get; set; }
-        public string Description { get; set; }
+        public string Description { get; set; } 
         public List<Item> ItemList { get; set; }
     }
 
